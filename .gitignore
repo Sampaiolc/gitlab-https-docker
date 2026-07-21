@@ -63,3 +63,9 @@ Temporary Items
 
 # Docker Volume Folder
 /volume_data
+
+# env files
+.env
+.env.*
+!.env.example
+!.env.sample
